@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="148" height="36" viewBox="0 0 148 36" fill="none">
+  <rect width="36" height="36" rx="8" fill="#F7B93F"/>
+  <path d="M8 11h20v4H8zm6 5h8v13h-8z" fill="#202640"/>
+  <path d="M23 16h5v5h-5z" fill="#202640"/>
+  <text x="46" y="25" fill="#202640" font-family="Space Grotesk,sans-serif" font-weight="700" font-size="19" letter-spacing="-1">ticketmaker</text>
+</svg>
